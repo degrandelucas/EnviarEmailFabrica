@@ -1,6 +1,6 @@
-# Automatização de Respostas por E-mail para Notas Fiscais Pendentes
+# Automatização de Respostas por E-mail para Pedidos incompletos enviados pela Fábrica/Fornecedor
 
-Este script em Python visa automatizar o processo de resposta por e-mail para notas fiscais pendentes de entrega. Ele examina a caixa de entrada de e-mails em busca de mensagens relacionadas a notas fiscais específicas e envia respostas personalizadas para cada uma delas, solicitando uma nova NF complementar para um determinado pedido.
+Este script em Python visa automatizar o processo de resposta por e-mail para pedidos incompletos enviados pela fábrica e/ou fornecedor. Ele examina a caixa de entrada de e-mails em busca de mensagens relacionadas a notas fiscais específicas e envia respostas personalizadas para cada uma delas, solicitando uma nova NF complementar para um determinado pedido.
 
 ## Funcionalidades Principais
 
@@ -28,7 +28,6 @@ Este script em Python visa automatizar o processo de resposta por e-mail para no
 
 ## Autor
 
-- **Nome:** [Seu nome]
-
-- **Contato:** [Seu endereço de e-mail]
+- **Nome:** Lucas Degrande
+- **Contato:** lucasdegrande15@gmail.com
 
